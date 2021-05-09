@@ -1,0 +1,19 @@
+.btn-xs {
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 0.25em !important;
+    padding-right: 0.25em !important;
+    font-size: 0.9em !important;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+/* Firefox */
+input[type="number"] {
+    -moz-appearance: textfield;
+}
